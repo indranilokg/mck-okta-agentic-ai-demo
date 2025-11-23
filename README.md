@@ -1,10 +1,10 @@
-# McKinsey-Demo AI Assistant
+# Streamward AI Assistant
 
-A comprehensive end-to-end agentic AI demo showcasing advanced security features and multi-agent coordination for McKinsey-Demo Corporation.
+A comprehensive end-to-end agentic AI demo showcasing advanced security features and multi-agent coordination for Streamward Corporation.
 
 ## Project Overview
 
-McKinsey-Demo Corporation operates across multiple departments with an intelligent AI assistant that handles:
+Streamward Corporation operates across multiple departments with an intelligent AI assistant that handles:
 - **HR Department**: Employee management, payroll, benefits
 - **Finance Department**: Budgeting, expense management, financial reporting  
 - **Legal Department**: Contract management, compliance, risk assessment
